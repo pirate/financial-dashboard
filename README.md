@@ -9,6 +9,6 @@
 
 ## Built With
 
-- React
 - Vite
-- R3
+- React
+- Recharts
